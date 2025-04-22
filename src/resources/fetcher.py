@@ -1,7 +1,7 @@
 import requests, roman, json
 from time import sleep
 from utils.paths import DATA
-from utils.config import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
+from utils.constants import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
 
 def call(endpoint: str) -> dict:
     """

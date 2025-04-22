@@ -1,6 +1,6 @@
 # Methods followed in this study
 
-All the code in this application is meant to obtain information from PokéAPI, and then organize it so it can be graphically displayed on a webpage. The nature of said analysis must be known in order to understand how the app is made and why. This document serves that purpose.
+All the code in this application is meant to obtain information from [PokéAPI](https://pokeapi.co/), and then organize it so it can be graphically displayed on a webpage. The nature of said analysis must be known in order to understand how the app is made and why. This document serves that purpose.
 
 ## What counts and what doesn't
 
