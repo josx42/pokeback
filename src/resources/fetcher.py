@@ -1,6 +1,5 @@
-import requests, roman, json
+import requests, roman
 from time import sleep
-from src.utils.paths import DATA
 from src.utils.constants import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
 
 def call(endpoint: str) -> dict:
@@ -144,6 +143,9 @@ def get_data(limit = 10) -> list[dict]:
             last_evols.extend(specials_in_chain) # Processing specials when they're part of chain
 
             for evolution in last_evols:
+                if evolution in NO_DEFAULT_FORM:
+                    continue # Skipping Pokémon without a default form
+
                 if evolution in species_cache: # Caching in line 136 avoids repetitive calls for single-member evolution chains
                     evolution_species_data = species_cache[evolution]
                 else:
@@ -166,5 +168,4 @@ def get_data(limit = 10) -> list[dict]:
                              'region_only': evolution in REGION_ONLY}
                 results.append(full_json)
 
-    # To Do: Replace Pokémon with no default form
     return results

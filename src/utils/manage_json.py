@@ -4,7 +4,7 @@ from pathlib import Path
 
 def read_json(path_to_file: Path) -> dict:
 
-    with open(path_to_file, 'r') as file:
+    with open(path_to_file) as file:
         data = json.load(file)
 
     return data

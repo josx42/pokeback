@@ -1,4 +1,6 @@
 from itertools import combinations
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.triggers.cron import CronTrigger
 from src.utils.paths import DATA, GENERATIONS, TYPES
 from src.utils.manage_json import read_json, write_json
 from src.resources.fetcher import call, get_data
@@ -95,5 +97,12 @@ def update():
     for type in types:
         create_type_graphs(source, type)
         create_type_graphs(source, type, accumulated=True)
+
+def auto_update():
+    scheduler = BackgroundScheduler()
+    date_to_run = CronTrigger(month=2, day=1, hour=0, minute=0)
+
+    scheduler.add_job(update, date_to_run)
+    scheduler.start()
 
 update()

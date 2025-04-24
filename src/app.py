@@ -1,4 +1,5 @@
 from flask import Flask, jsonify
+from src.resources.updater import auto_update
 
 app = Flask(__name__)
 
@@ -9,4 +10,5 @@ def index():
     return jsonify(info)
 
 if __name__ == '__main__':
+    auto_update()
     app.run(debug=True)
