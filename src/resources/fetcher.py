@@ -1,7 +1,7 @@
 import requests, roman, json
 from time import sleep
-from utils.paths import DATA
-from utils.constants import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
+from src.utils.paths import DATA
+from src.utils.constants import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
 
 def call(endpoint: str) -> dict:
     """
@@ -168,14 +168,3 @@ def get_data(limit = 10) -> list[dict]:
 
     # To Do: Replace Pokémon with no default form
     return results
-
-def main():
-    result = get_data(9999)
-
-    with open(DATA / 'source.json', 'w') as file:
-        json.dump(result, file, indent=2)
-
-    print(f'Results successfully fetched and written to JSON format.')
-
-if __name__ == '__main__':
-    main()

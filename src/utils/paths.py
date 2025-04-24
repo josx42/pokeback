@@ -7,4 +7,7 @@ ROOT = Path(__file__).parents[2].resolve()
 SRC = ROOT / 'src'
 RESOURCES = SRC / 'resources'
 DATA = RESOURCES / 'data'
+GENERATIONS = DATA / 'generations'
+TYPES = DATA / 'types'
+
 UTILS = SRC / 'utils'
