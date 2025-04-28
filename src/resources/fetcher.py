@@ -146,7 +146,7 @@ def get_data(limit = 10) -> list[dict]:
                 if evolution in NO_DEFAULT_FORM:
                     continue # Skipping Pokémon without a default form
 
-                if evolution in species_cache: # Caching in line 136 avoids repetitive calls for single-member evolution chains
+                if evolution in species_cache: # Caching in line 135 avoids repetitive calls for single-member evolution chains
                     evolution_species_data = species_cache[evolution]
                 else:
                     evolution_species_data = call('pokemon-species/' + evolution)

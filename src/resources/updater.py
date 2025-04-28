@@ -5,16 +5,13 @@ from src.utils.paths import DATA, GENERATIONS, TYPES
 from src.utils.manage_json import read_json, write_json
 from src.resources.fetcher import call, get_data
 
-# with open(DATA / 'source.json', 'r') as file:
-#     data = json.load(file)
-
 types_data = call('type').get('results')
 types = [result['name'] for result in types_data]
 types.remove('unknown'); types.remove('stellar')
 
 gens = call('generation').get('count', 9)
 
-source = read_json(DATA / 'source.json')
+# source = read_json(DATA / 'source.json')
 
 def count_types(data: dict, types: list, gen_num: int, accumulated = False):
     """Takes a `data` dictionary to count how many Pokémon of the passed type are there in the
@@ -83,7 +80,7 @@ def create_type_graphs(data: dict, type: str, accumulated = False):
 
 
 def update():
-    # source = get_data(9999)
+    source = get_data(9999)
 
     create_source_file(source)
 
@@ -98,6 +95,8 @@ def update():
         create_type_graphs(source, type)
         create_type_graphs(source, type, accumulated=True)
 
+    print('Resources successfully updated.')
+
 def auto_update():
     scheduler = BackgroundScheduler()
     date_to_run = CronTrigger(month=2, day=1, hour=0, minute=0)
@@ -105,4 +104,6 @@ def auto_update():
     scheduler.add_job(update, date_to_run)
     scheduler.start()
 
-update()
+
+if __name__ == '__main__':
+    update()
