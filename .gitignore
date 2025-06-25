@@ -173,5 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Resources
+# Resources in this project
 *.json

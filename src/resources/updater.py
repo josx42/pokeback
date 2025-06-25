@@ -1,101 +1,96 @@
+# Imports from built-in modules
 from itertools import combinations
+# Imports from installed modules
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.cron import CronTrigger
+# Imports from own modules
 from src.utils.paths import DATA, GENERATIONS, TYPES
 from src.utils.manage_json import read_json, write_json
 from src.resources.fetcher import call, get_data
-
-types_data = call('type').get('results')
-types = [result['name'] for result in types_data]
-types.remove('unknown'); types.remove('stellar')
-
-gens = call('generation').get('count', 9)
-
-# source = read_json(DATA / 'source.json')
-
-def count_types(data: dict, types: list, gen_num: int, accumulated = False):
-    """Takes a `data` dictionary to count how many Pokémon of the passed type are there in the
-    generation of the corresponding `gen_num`. `types` is a list of one or two types in the form of
-    strings. If `accumulated` is set to `True`, it also counts Pokémon from past generations."""
-
-    gen = f'gen_{gen_num}'
-
-    count = 0
-    for pokemon in data:
-        counted = sorted(pokemon['types'][gen]) == sorted(types)
-
-        if counted:
-            exists = pokemon['gen'] <= gen_num
-            from_this_gen = pokemon['gen'] == gen_num
-            region_only = pokemon['region_only']
-            available = (exists and not region_only) or from_this_gen # If Pokémon is region-only (Perrserker, for example), it's only available in case we are "playing" in the generation it's from. See METHODS.md for more info.
-
-            if not accumulated and from_this_gen:
-                count += 1
-            if accumulated and available:
-                count += 1
-
-    return count
+from src.resources.calculations import get_balance, get_diversity, get_total_type_weight, get_types_count
 
 
-def create_source_file(data):
-    write_json(data, DATA / 'source.json')
-    print('Results successfully fetched and written to JSON format.')
+def update(from_scratch = False):
+    """Updates all resources. If `from_scratch` is `True`, it performs all the logic pertaining
+    PokéAPI, including many requests, and creates the main resource. Otherwise, it works locally
+    from the preexistent file."""
+
+    if from_scratch:
+        source = get_data(9999)
+        write_json(source, DATA / 'source.json')
+        print('Main data successfully fetched and written to JSON format.')
+    else:
+        source = read_json(DATA / 'source.json')
+
+    gens = call('generation').get('count', 9)
+
+    types_data = call('type').get('results')
+    types = [result['name'] for result in types_data]
+    types.remove('unknown'); types.remove('stellar')
 
 
-def create_gen_monotypes(data: dict, gen_num: int, accumulated = False):
-    count = {'generation': gen_num}
-    for type in types:
-        count[type] = count_types(data, [type], gen_num, accumulated)
+    def create_gen_resource(gen_num: int, partial: bool, accumulated: bool):
+        """It creates a resource for the generation of the given `gen_num`, including a count of Pokémon of every type and statistic indexes for them, writing it all to a JSON file.
 
-    suffix = '_accumulated' if accumulated else ''
-    write_json(count, GENERATIONS / f'gen_{gen_num}_monotypes{suffix}.json')
-    print(f'Data for generation {gen_num} monotypes successfully writen to JSON file.')
+        All of this function's parameters are passed to functions `get_types_count` and `get_total_type_weight` from the `calculations` module. Refer to said module for more info."""
+
+        result = {'generation': gen_num, 'counters': []}
+        weights = []
+
+        adjusted_types = types.copy()
+        if gen_num < 6:
+            adjusted_types.remove('fairy')
+        if gen_num < 2:
+            adjusted_types.remove('steel')
+            adjusted_types.remove('dark')
+
+        duals = list(combinations(adjusted_types, 2))
+        all_typings = duals + [(type, ) for type in adjusted_types] # Normalize typing format
+        typings = [(type, ) for type in adjusted_types] if partial else all_typings
+        for typing in typings:
+            count = get_types_count(source, gen_num, *typing, partial = partial, accumulated = accumulated)
+            counter = {'types': [typing] if partial else list(typing), 'count': count}
+            result['counters'].append(counter)
+
+            if partial:
+                weight = get_total_type_weight(source, gen_num, typing[0], accumulated = accumulated)
+            else:
+                weight = count # For strict counts, weight = count
+            weights.append(weight)
+
+        result['diversity'] = get_diversity(weights)
+        result['balance'] = get_balance(weights)
+
+        mode = 'partial' if partial else 'strict'
+        suffix = '_accumulated' if accumulated else ''
+        write_json(result, GENERATIONS / f'gen_{gen_num}_{mode}{suffix}.json')
+        prefix = '' if accumulated else 'non-'
+        print(f'Data for generation {gen_num} ({prefix}accumulated) successfully writen to JSON file.')
 
 
-def create_gen_combinations(data: dict, gen_num: int, accumulated = False):
-    count = {'generation': gen_num, 'combinations': []}
-    duals = [list(dual) for dual in combinations(types, 2)]
-    for dual in duals:
-        own_counter = {'types': dual}
-        own_counter['count'] = count_types(data, dual, gen_num, accumulated)
-        count['combinations'].append(own_counter)
+    def create_type_resource(type: str, accumulated: bool):
+        result = {'type': type, 'counters': []}
+        suffix = '_accumulated' if accumulated else ''
 
-    suffix = '_accumulated' if accumulated else ''
-    write_json(count, GENERATIONS / f'gen_{gen_num}_duals{suffix}.json')
-    print(f'Data for generation {gen_num} types combinations successfully writen to JSON file.')
+        for gen_num in range(1, gens + 1):
+            count = get_types_count(source, gen_num, type, partial = True, accumulated = accumulated)
+            counter = {'generation': gen_num, 'count': count}
+            result['counters'].append(counter)
 
+        write_json(result, TYPES / f'{type}{suffix}.json')
+        print(f'Data for {type} type at every generation successfully writen to JSON file.')
 
-def create_type_graphs(data: dict, type: str, accumulated = False):
-    count = {'type': type}
-    suffix = '_accumulated' if accumulated else ''
-    for gen_num in range(1, gens + 1):
-        count[f'gen_{gen_num}'] = count_types(data, [type], gen_num, accumulated)
-
-    write_json(count, TYPES / f'{type}{suffix}.json')
-    print(f'Data for type {type} at every generation successfully writen to JSON file.')
-
-
-
-
-
-def update():
-    source = get_data(9999)
-
-    create_source_file(source)
 
     for gen in range(1, gens + 1):
-        create_gen_monotypes(source, gen)
-        create_gen_monotypes(source, gen, accumulated=True)
-
-        create_gen_combinations(source, gen)
-        create_gen_combinations(source, gen, accumulated=True)
+        for mode in [(True, True), (True, False), (False, False), (False, True)]:
+            create_gen_resource(gen, mode[0], mode[1])
 
     for type in types:
-        create_type_graphs(source, type)
-        create_type_graphs(source, type, accumulated=True)
+        create_type_resource(type, False)
+        create_type_resource(type, True)
 
     print('Resources successfully updated.')
+
 
 def auto_update():
     scheduler = BackgroundScheduler()

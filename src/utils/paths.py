@@ -5,9 +5,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).parents[2].resolve()
 SRC = ROOT / 'src'
-RESOURCES = SRC / 'resources'
-DATA = RESOURCES / 'data'
+# RESOURCES = SRC / 'resources'
+DATA = SRC / 'resources' / 'data'
+# DATA = RESOURCES / 'data'
 GENERATIONS = DATA / 'generations'
 TYPES = DATA / 'types'
 
-UTILS = SRC / 'utils'
+# UTILS = SRC / 'utils'

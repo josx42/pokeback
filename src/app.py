@@ -14,7 +14,7 @@ def index():
 
 @app.route('/update')
 def manual_update():
-    update()
+    update(from_scratch = True)
     info = {'info': 'Resources updated'}
     return jsonify(info)
 
@@ -27,18 +27,18 @@ def get_type(name):
     return jsonify(resource)
 
 
-@app.route('/generations/<int:number>/monotypes')
-@app.route('/generations/<int:number>/monotypes/accumulated')
+@app.route('/generations/<int:number>/partial')
+@app.route('/generations/<int:number>/partial/accumulated')
 def get_generation_monotypes(number):
     suffix = '_accumulated' if request.path.endswith('accumulated') else ''
-    resource = read_json(GENERATIONS / f'gen_{number}_monotypes{suffix}.json')
+    resource = read_json(GENERATIONS / f'gen_{number}_partial{suffix}.json')
     return jsonify(resource)
 
-@app.route('/generations/<int:number>/duals')
-@app.route('/generations/<int:number>/duals/accumulated')
+@app.route('/generations/<int:number>/strict')
+@app.route('/generations/<int:number>/strict/accumulated')
 def get_generation_duals(number):
     suffix = '_accumulated' if request.path.endswith('accumulated') else ''
-    resource = read_json(GENERATIONS / f'gen_{number}_duals{suffix}.json')
+    resource = read_json(GENERATIONS / f'gen_{number}_strict{suffix}.json')
     return jsonify(resource)
 
 
