@@ -1,8 +1,9 @@
 [
   {
+    "gen": 1,
     "name": "venusaur",
-    "gen": 1,
     "national_dex_num": 3,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -40,13 +41,13 @@
         "grass",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "charizard",
-    "gen": 1,
     "national_dex_num": 6,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -84,13 +85,13 @@
         "fire",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "blastoise",
-    "gen": 1,
     "national_dex_num": 9,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -119,13 +120,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "butterfree",
-    "gen": 1,
     "national_dex_num": 12,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -163,13 +164,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "beedrill",
-    "gen": 1,
     "national_dex_num": 15,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -207,13 +208,13 @@
         "bug",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "pidgeot",
-    "gen": 1,
     "national_dex_num": 18,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -251,13 +252,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "raticate",
-    "gen": 1,
     "national_dex_num": 20,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -286,13 +287,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "fearow",
-    "gen": 1,
     "national_dex_num": 22,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -330,13 +331,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "arbok",
-    "gen": 1,
     "national_dex_num": 24,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison"
@@ -365,13 +366,13 @@
       "gen_9": [
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "raichu",
-    "gen": 1,
     "national_dex_num": 26,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -400,13 +401,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "sandslash",
-    "gen": 1,
     "national_dex_num": 28,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -435,13 +436,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "nidoqueen",
-    "gen": 1,
     "national_dex_num": 31,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -479,13 +480,13 @@
         "poison",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "nidoking",
-    "gen": 1,
     "national_dex_num": 34,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -523,13 +524,13 @@
         "poison",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "clefable",
-    "gen": 1,
     "national_dex_num": 36,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -558,13 +559,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "ninetales",
-    "gen": 1,
     "national_dex_num": 38,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -593,13 +594,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "wigglytuff",
-    "gen": 1,
     "national_dex_num": 40,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -632,13 +633,13 @@
         "normal",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "crobat",
-    "gen": 2,
     "national_dex_num": 169,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -676,13 +677,13 @@
         "poison",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "vileplume",
-    "gen": 1,
     "national_dex_num": 45,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -720,13 +721,13 @@
         "grass",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "bellossom",
-    "gen": 2,
     "national_dex_num": 182,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -755,13 +756,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "parasect",
-    "gen": 1,
     "national_dex_num": 47,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -799,13 +800,13 @@
         "bug",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "venomoth",
-    "gen": 1,
     "national_dex_num": 49,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -843,13 +844,13 @@
         "bug",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "dugtrio",
-    "gen": 1,
     "national_dex_num": 51,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -878,13 +879,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "persian",
-    "gen": 1,
     "national_dex_num": 53,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -913,13 +914,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "perrserker",
-    "gen": 8,
     "national_dex_num": 863,
+    "region_only": true,
     "types": {
       "gen_1": [
         "steel"
@@ -948,13 +949,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 1,
     "name": "golduck",
-    "gen": 1,
     "national_dex_num": 55,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -983,13 +984,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "annihilape",
-    "gen": 9,
     "national_dex_num": 979,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -1027,13 +1028,13 @@
         "fighting",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "arcanine",
-    "gen": 1,
     "national_dex_num": 59,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -1062,13 +1063,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "poliwrath",
-    "gen": 1,
     "national_dex_num": 62,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -1106,13 +1107,13 @@
         "water",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "politoed",
-    "gen": 2,
     "national_dex_num": 186,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -1141,13 +1142,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "alakazam",
-    "gen": 1,
     "national_dex_num": 65,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -1176,13 +1177,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "machamp",
-    "gen": 1,
     "national_dex_num": 68,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -1211,13 +1212,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "victreebel",
-    "gen": 1,
     "national_dex_num": 71,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -1255,13 +1256,13 @@
         "grass",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "tentacruel",
-    "gen": 1,
     "national_dex_num": 73,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -1299,13 +1300,13 @@
         "water",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "golem",
-    "gen": 1,
     "national_dex_num": 76,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -1343,13 +1344,13 @@
         "rock",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "rapidash",
-    "gen": 1,
     "national_dex_num": 78,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -1378,13 +1379,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "slowbro",
-    "gen": 1,
     "national_dex_num": 80,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -1422,13 +1423,13 @@
         "water",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "slowking",
-    "gen": 2,
     "national_dex_num": 199,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -1466,13 +1467,13 @@
         "water",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "magnezone",
-    "gen": 4,
     "national_dex_num": 462,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -1510,13 +1511,13 @@
         "electric",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "sirfetchd",
-    "gen": 8,
     "national_dex_num": 865,
+    "region_only": true,
     "types": {
       "gen_1": [
         "fighting"
@@ -1545,13 +1546,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 1,
     "name": "farfetchd",
-    "gen": 1,
     "national_dex_num": 83,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -1589,13 +1590,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "dodrio",
-    "gen": 1,
     "national_dex_num": 85,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -1633,13 +1634,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "dewgong",
-    "gen": 1,
     "national_dex_num": 87,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -1677,13 +1678,13 @@
         "water",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "muk",
-    "gen": 1,
     "national_dex_num": 89,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison"
@@ -1712,13 +1713,13 @@
       "gen_9": [
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "cloyster",
-    "gen": 1,
     "national_dex_num": 91,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -1756,13 +1757,13 @@
         "water",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "gengar",
-    "gen": 1,
     "national_dex_num": 94,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -1800,13 +1801,13 @@
         "ghost",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "steelix",
-    "gen": 2,
     "national_dex_num": 208,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -1844,13 +1845,13 @@
         "steel",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "hypno",
-    "gen": 1,
     "national_dex_num": 97,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -1879,13 +1880,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "kingler",
-    "gen": 1,
     "national_dex_num": 99,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -1914,13 +1915,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "electrode",
-    "gen": 1,
     "national_dex_num": 101,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -1949,13 +1950,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "exeggutor",
-    "gen": 1,
     "national_dex_num": 103,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -1993,13 +1994,13 @@
         "grass",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "marowak",
-    "gen": 1,
     "national_dex_num": 105,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -2028,13 +2029,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "hitmonlee",
-    "gen": 1,
     "national_dex_num": 106,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -2063,13 +2064,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "hitmonchan",
-    "gen": 1,
     "national_dex_num": 107,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -2098,13 +2099,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "hitmontop",
-    "gen": 2,
     "national_dex_num": 237,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -2133,13 +2134,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "lickilicky",
-    "gen": 4,
     "national_dex_num": 463,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -2168,13 +2169,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "weezing",
-    "gen": 1,
     "national_dex_num": 110,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison"
@@ -2203,13 +2204,13 @@
       "gen_9": [
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "rhyperior",
-    "gen": 4,
     "national_dex_num": 464,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -2247,13 +2248,13 @@
         "ground",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "blissey",
-    "gen": 2,
     "national_dex_num": 242,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -2282,13 +2283,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "tangrowth",
-    "gen": 4,
     "national_dex_num": 465,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -2317,13 +2318,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "kangaskhan",
-    "gen": 1,
     "national_dex_num": 115,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -2352,13 +2353,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "kingdra",
-    "gen": 2,
     "national_dex_num": 230,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -2396,13 +2397,13 @@
         "water",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "seaking",
-    "gen": 1,
     "national_dex_num": 119,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -2431,13 +2432,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "starmie",
-    "gen": 1,
     "national_dex_num": 121,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -2475,13 +2476,13 @@
         "water",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "mr-rime",
-    "gen": 8,
     "national_dex_num": 866,
+    "region_only": true,
     "types": {
       "gen_1": [
         "ice",
@@ -2519,13 +2520,13 @@
         "ice",
         "psychic"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 1,
     "name": "mr-mime",
-    "gen": 1,
     "national_dex_num": 122,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -2558,13 +2559,13 @@
         "psychic",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "scizor",
-    "gen": 2,
     "national_dex_num": 212,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -2602,13 +2603,13 @@
         "bug",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "kleavor",
-    "gen": 8,
     "national_dex_num": 900,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -2646,13 +2647,13 @@
         "bug",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "jynx",
-    "gen": 1,
     "national_dex_num": 124,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -2690,13 +2691,13 @@
         "ice",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "electivire",
-    "gen": 4,
     "national_dex_num": 466,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -2725,13 +2726,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "magmortar",
-    "gen": 4,
     "national_dex_num": 467,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -2760,13 +2761,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "pinsir",
-    "gen": 1,
     "national_dex_num": 127,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug"
@@ -2795,13 +2796,13 @@
       "gen_9": [
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "tauros",
-    "gen": 1,
     "national_dex_num": 128,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -2830,13 +2831,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "gyarados",
-    "gen": 1,
     "national_dex_num": 130,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -2874,13 +2875,13 @@
         "water",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "lapras",
-    "gen": 1,
     "national_dex_num": 131,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -2918,13 +2919,13 @@
         "water",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "ditto",
-    "gen": 1,
     "national_dex_num": 132,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -2953,13 +2954,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "vaporeon",
-    "gen": 1,
     "national_dex_num": 134,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -2988,13 +2989,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "jolteon",
-    "gen": 1,
     "national_dex_num": 135,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -3023,13 +3024,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "flareon",
-    "gen": 1,
     "national_dex_num": 136,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -3058,13 +3059,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "espeon",
-    "gen": 2,
     "national_dex_num": 196,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -3093,13 +3094,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "umbreon",
-    "gen": 2,
     "national_dex_num": 197,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -3128,13 +3129,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "leafeon",
-    "gen": 4,
     "national_dex_num": 470,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -3163,13 +3164,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "glaceon",
-    "gen": 4,
     "national_dex_num": 471,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -3198,13 +3199,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "sylveon",
-    "gen": 6,
     "national_dex_num": 700,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -3233,13 +3234,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "porygon-z",
-    "gen": 4,
     "national_dex_num": 474,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -3268,13 +3269,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "omastar",
-    "gen": 1,
     "national_dex_num": 139,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -3312,13 +3313,13 @@
         "rock",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "kabutops",
-    "gen": 1,
     "national_dex_num": 141,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -3356,13 +3357,13 @@
         "rock",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "aerodactyl",
-    "gen": 1,
     "national_dex_num": 142,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -3400,13 +3401,13 @@
         "rock",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "snorlax",
-    "gen": 1,
     "national_dex_num": 143,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -3435,13 +3436,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "articuno",
-    "gen": 1,
     "national_dex_num": 144,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -3479,13 +3480,13 @@
         "ice",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "zapdos",
-    "gen": 1,
     "national_dex_num": 145,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -3523,13 +3524,13 @@
         "electric",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "moltres",
-    "gen": 1,
     "national_dex_num": 146,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -3567,13 +3568,13 @@
         "fire",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "dragonite",
-    "gen": 1,
     "national_dex_num": 149,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -3611,13 +3612,13 @@
         "dragon",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 1,
     "name": "mewtwo",
-    "gen": 1,
     "national_dex_num": 150,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -3646,13 +3647,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "mew",
     "gen": 1,
+    "name": "mew",
     "national_dex_num": 151,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -3681,13 +3682,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "meganium",
-    "gen": 2,
     "national_dex_num": 154,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -3716,13 +3717,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "typhlosion",
-    "gen": 2,
     "national_dex_num": 157,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -3751,13 +3752,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "feraligatr",
-    "gen": 2,
     "national_dex_num": 160,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -3786,13 +3787,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "furret",
-    "gen": 2,
     "national_dex_num": 162,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -3821,13 +3822,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "noctowl",
-    "gen": 2,
     "national_dex_num": 164,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -3865,13 +3866,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "ledian",
-    "gen": 2,
     "national_dex_num": 166,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -3909,13 +3910,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "ariados",
-    "gen": 2,
     "national_dex_num": 168,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -3953,13 +3954,13 @@
         "bug",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "lanturn",
-    "gen": 2,
     "national_dex_num": 171,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -3997,13 +3998,13 @@
         "water",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "togekiss",
-    "gen": 4,
     "national_dex_num": 468,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -4041,13 +4042,13 @@
         "fairy",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "xatu",
-    "gen": 2,
     "national_dex_num": 178,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -4085,13 +4086,13 @@
         "psychic",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "ampharos",
-    "gen": 2,
     "national_dex_num": 181,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -4120,13 +4121,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "azumarill",
-    "gen": 2,
     "national_dex_num": 184,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -4159,13 +4160,13 @@
         "water",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "sudowoodo",
-    "gen": 2,
     "national_dex_num": 185,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -4194,13 +4195,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "jumpluff",
-    "gen": 2,
     "national_dex_num": 189,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -4238,13 +4239,13 @@
         "grass",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "ambipom",
-    "gen": 4,
     "national_dex_num": 424,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -4273,13 +4274,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "sunflora",
-    "gen": 2,
     "national_dex_num": 192,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -4308,13 +4309,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "yanmega",
-    "gen": 4,
     "national_dex_num": 469,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -4352,13 +4353,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "quagsire",
-    "gen": 2,
     "national_dex_num": 195,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -4396,13 +4397,13 @@
         "water",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "clodsire",
-    "gen": 9,
     "national_dex_num": 980,
+    "region_only": true,
     "types": {
       "gen_1": [
         "poison",
@@ -4440,13 +4441,13 @@
         "poison",
         "ground"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 4,
     "name": "honchkrow",
-    "gen": 4,
     "national_dex_num": 430,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -4484,13 +4485,13 @@
         "dark",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "mismagius",
-    "gen": 4,
     "national_dex_num": 429,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -4519,13 +4520,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "unown",
-    "gen": 2,
     "national_dex_num": 201,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -4554,13 +4555,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "wobbuffet",
-    "gen": 2,
     "national_dex_num": 202,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -4589,13 +4590,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "farigiraf",
-    "gen": 9,
     "national_dex_num": 981,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -4633,13 +4634,13 @@
         "normal",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "forretress",
-    "gen": 2,
     "national_dex_num": 205,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -4677,13 +4678,13 @@
         "bug",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "dudunsparce",
-    "gen": 9,
     "national_dex_num": 982,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -4712,13 +4713,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "gliscor",
-    "gen": 4,
     "national_dex_num": 472,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -4756,13 +4757,13 @@
         "ground",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "granbull",
-    "gen": 2,
     "national_dex_num": 210,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -4791,13 +4792,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "overqwil",
-    "gen": 8,
     "national_dex_num": 904,
+    "region_only": true,
     "types": {
       "gen_1": [
         "dark",
@@ -4835,13 +4836,13 @@
         "dark",
         "poison"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 2,
     "name": "qwilfish",
-    "gen": 2,
     "national_dex_num": 211,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -4879,13 +4880,13 @@
         "water",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "shuckle",
-    "gen": 2,
     "national_dex_num": 213,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -4923,13 +4924,13 @@
         "bug",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "heracross",
-    "gen": 2,
     "national_dex_num": 214,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -4967,13 +4968,13 @@
         "bug",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "weavile",
-    "gen": 4,
     "national_dex_num": 461,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -5011,13 +5012,13 @@
         "dark",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "sneasler",
-    "gen": 8,
     "national_dex_num": 903,
+    "region_only": true,
     "types": {
       "gen_1": [
         "fighting",
@@ -5055,57 +5056,13 @@
         "fighting",
         "poison"
       ]
-    },
-    "region_only": true
+    }
   },
   {
-    "name": "ursaluna",
-    "gen": 8,
-    "national_dex_num": 901,
-    "types": {
-      "gen_1": [
-        "ground",
-        "normal"
-      ],
-      "gen_2": [
-        "ground",
-        "normal"
-      ],
-      "gen_3": [
-        "ground",
-        "normal"
-      ],
-      "gen_4": [
-        "ground",
-        "normal"
-      ],
-      "gen_5": [
-        "ground",
-        "normal"
-      ],
-      "gen_6": [
-        "ground",
-        "normal"
-      ],
-      "gen_7": [
-        "ground",
-        "normal"
-      ],
-      "gen_8": [
-        "ground",
-        "normal"
-      ],
-      "gen_9": [
-        "ground",
-        "normal"
-      ]
-    },
-    "region_only": true
-  },
-  {
+    "gen": 2,
     "name": "ursaring",
-    "gen": 2,
     "national_dex_num": 217,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -5134,13 +5091,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "magcargo",
-    "gen": 2,
     "national_dex_num": 219,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -5178,13 +5135,13 @@
         "fire",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "mamoswine",
-    "gen": 4,
     "national_dex_num": 473,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -5222,13 +5179,13 @@
         "ice",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "cursola",
-    "gen": 8,
     "national_dex_num": 864,
+    "region_only": true,
     "types": {
       "gen_1": [
         "ghost"
@@ -5257,13 +5214,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 2,
     "name": "corsola",
-    "gen": 2,
     "national_dex_num": 222,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -5301,13 +5258,13 @@
         "water",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "octillery",
-    "gen": 2,
     "national_dex_num": 224,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -5336,13 +5293,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "delibird",
-    "gen": 2,
     "national_dex_num": 225,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -5380,13 +5337,13 @@
         "ice",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "mantine",
-    "gen": 2,
     "national_dex_num": 226,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -5424,13 +5381,13 @@
         "water",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "skarmory",
-    "gen": 2,
     "national_dex_num": 227,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -5468,13 +5425,13 @@
         "steel",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "houndoom",
-    "gen": 2,
     "national_dex_num": 229,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -5512,13 +5469,13 @@
         "dark",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "donphan",
-    "gen": 2,
     "national_dex_num": 232,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -5547,13 +5504,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "wyrdeer",
-    "gen": 8,
     "national_dex_num": 899,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -5591,13 +5548,13 @@
         "normal",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "smeargle",
-    "gen": 2,
     "national_dex_num": 235,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -5626,13 +5583,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "miltank",
-    "gen": 2,
     "national_dex_num": 241,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -5661,13 +5618,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "raikou",
-    "gen": 2,
     "national_dex_num": 243,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -5696,13 +5653,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "entei",
-    "gen": 2,
     "national_dex_num": 244,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -5731,13 +5688,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "suicune",
-    "gen": 2,
     "national_dex_num": 245,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -5766,13 +5723,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "tyranitar",
-    "gen": 2,
     "national_dex_num": 248,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -5810,13 +5767,13 @@
         "rock",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "lugia",
-    "gen": 2,
     "national_dex_num": 249,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -5854,13 +5811,13 @@
         "psychic",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 2,
     "name": "ho-oh",
-    "gen": 2,
     "national_dex_num": 250,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -5898,13 +5855,13 @@
         "fire",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "celebi",
     "gen": 2,
+    "name": "celebi",
     "national_dex_num": 251,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -5942,13 +5899,13 @@
         "psychic",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "sceptile",
-    "gen": 3,
     "national_dex_num": 254,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -5977,13 +5934,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "blaziken",
-    "gen": 3,
     "national_dex_num": 257,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -6021,13 +5978,13 @@
         "fire",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "swampert",
-    "gen": 3,
     "national_dex_num": 260,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -6065,13 +6022,13 @@
         "water",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "mightyena",
-    "gen": 3,
     "national_dex_num": 262,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -6100,13 +6057,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "obstagoon",
-    "gen": 8,
     "national_dex_num": 862,
+    "region_only": true,
     "types": {
       "gen_1": [
         "dark",
@@ -6144,13 +6101,13 @@
         "dark",
         "normal"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 3,
     "name": "linoone",
-    "gen": 3,
     "national_dex_num": 264,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -6179,13 +6136,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "beautifly",
-    "gen": 3,
     "national_dex_num": 267,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -6223,13 +6180,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "dustox",
-    "gen": 3,
     "national_dex_num": 269,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -6267,13 +6224,13 @@
         "bug",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "ludicolo",
-    "gen": 3,
     "national_dex_num": 272,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -6311,13 +6268,13 @@
         "water",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "shiftry",
-    "gen": 3,
     "national_dex_num": 275,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -6355,13 +6312,13 @@
         "grass",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "swellow",
-    "gen": 3,
     "national_dex_num": 277,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -6399,13 +6356,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "pelipper",
-    "gen": 3,
     "national_dex_num": 279,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -6443,13 +6400,13 @@
         "water",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "gardevoir",
-    "gen": 3,
     "national_dex_num": 282,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -6482,13 +6439,13 @@
         "psychic",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "gallade",
-    "gen": 4,
     "national_dex_num": 475,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -6526,13 +6483,13 @@
         "psychic",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "masquerain",
-    "gen": 3,
     "national_dex_num": 284,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -6570,13 +6527,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "breloom",
-    "gen": 3,
     "national_dex_num": 286,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -6614,13 +6571,13 @@
         "grass",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "slaking",
-    "gen": 3,
     "national_dex_num": 289,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -6649,13 +6606,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "ninjask",
-    "gen": 3,
     "national_dex_num": 291,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -6693,13 +6650,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "shedinja",
-    "gen": 3,
     "national_dex_num": 292,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -6737,13 +6694,13 @@
         "bug",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "exploud",
-    "gen": 3,
     "national_dex_num": 295,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -6772,13 +6729,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "hariyama",
-    "gen": 3,
     "national_dex_num": 297,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -6807,13 +6764,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "probopass",
-    "gen": 4,
     "national_dex_num": 476,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -6851,13 +6808,13 @@
         "rock",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "delcatty",
-    "gen": 3,
     "national_dex_num": 301,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -6886,13 +6843,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "sableye",
-    "gen": 3,
     "national_dex_num": 302,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -6930,13 +6887,13 @@
         "dark",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "mawile",
-    "gen": 3,
     "national_dex_num": 303,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -6969,13 +6926,13 @@
         "steel",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "aggron",
-    "gen": 3,
     "national_dex_num": 306,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -7013,13 +6970,13 @@
         "steel",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "medicham",
-    "gen": 3,
     "national_dex_num": 308,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -7057,13 +7014,13 @@
         "fighting",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "manectric",
-    "gen": 3,
     "national_dex_num": 310,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -7092,13 +7049,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "plusle",
-    "gen": 3,
     "national_dex_num": 311,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -7127,13 +7084,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "minun",
-    "gen": 3,
     "national_dex_num": 312,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -7162,13 +7119,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "volbeat",
-    "gen": 3,
     "national_dex_num": 313,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug"
@@ -7197,13 +7154,13 @@
       "gen_9": [
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "illumise",
-    "gen": 3,
     "national_dex_num": 314,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug"
@@ -7232,13 +7189,13 @@
       "gen_9": [
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "roserade",
-    "gen": 4,
     "national_dex_num": 407,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -7276,13 +7233,13 @@
         "grass",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "swalot",
-    "gen": 3,
     "national_dex_num": 317,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison"
@@ -7311,13 +7268,13 @@
       "gen_9": [
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "sharpedo",
-    "gen": 3,
     "national_dex_num": 319,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -7355,13 +7312,13 @@
         "water",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "wailord",
-    "gen": 3,
     "national_dex_num": 321,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -7390,13 +7347,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "camerupt",
-    "gen": 3,
     "national_dex_num": 323,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -7434,13 +7391,13 @@
         "fire",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "torkoal",
-    "gen": 3,
     "national_dex_num": 324,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -7469,13 +7426,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "grumpig",
-    "gen": 3,
     "national_dex_num": 326,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -7504,13 +7461,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "spinda",
-    "gen": 3,
     "national_dex_num": 327,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -7539,13 +7496,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "flygon",
-    "gen": 3,
     "national_dex_num": 330,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -7583,13 +7540,13 @@
         "ground",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "cacturne",
-    "gen": 3,
     "national_dex_num": 332,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -7627,13 +7584,13 @@
         "grass",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "altaria",
-    "gen": 3,
     "national_dex_num": 334,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -7671,13 +7628,13 @@
         "dragon",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "zangoose",
-    "gen": 3,
     "national_dex_num": 335,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -7706,13 +7663,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "seviper",
-    "gen": 3,
     "national_dex_num": 336,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison"
@@ -7741,13 +7698,13 @@
       "gen_9": [
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "lunatone",
-    "gen": 3,
     "national_dex_num": 337,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -7785,13 +7742,13 @@
         "rock",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "solrock",
-    "gen": 3,
     "national_dex_num": 338,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -7829,13 +7786,13 @@
         "rock",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "whiscash",
-    "gen": 3,
     "national_dex_num": 340,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -7873,13 +7830,13 @@
         "water",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "crawdaunt",
-    "gen": 3,
     "national_dex_num": 342,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -7917,13 +7874,13 @@
         "water",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "claydol",
-    "gen": 3,
     "national_dex_num": 344,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -7961,13 +7918,13 @@
         "ground",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "cradily",
-    "gen": 3,
     "national_dex_num": 346,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -8005,13 +7962,13 @@
         "rock",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "armaldo",
-    "gen": 3,
     "national_dex_num": 348,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -8049,13 +8006,13 @@
         "rock",
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "milotic",
-    "gen": 3,
     "national_dex_num": 350,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -8084,13 +8041,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "castform",
-    "gen": 3,
     "national_dex_num": 351,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -8119,13 +8076,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "kecleon",
-    "gen": 3,
     "national_dex_num": 352,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -8154,13 +8111,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "banette",
-    "gen": 3,
     "national_dex_num": 354,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -8189,13 +8146,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "dusknoir",
-    "gen": 4,
     "national_dex_num": 477,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -8224,13 +8181,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "tropius",
-    "gen": 3,
     "national_dex_num": 357,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -8268,13 +8225,13 @@
         "grass",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "chimecho",
-    "gen": 3,
     "national_dex_num": 358,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -8303,13 +8260,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "absol",
-    "gen": 3,
     "national_dex_num": 359,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -8338,13 +8295,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "glalie",
-    "gen": 3,
     "national_dex_num": 362,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -8373,13 +8330,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "froslass",
-    "gen": 4,
     "national_dex_num": 478,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -8417,13 +8374,13 @@
         "ice",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "walrein",
-    "gen": 3,
     "national_dex_num": 365,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -8461,13 +8418,13 @@
         "ice",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "huntail",
-    "gen": 3,
     "national_dex_num": 367,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -8496,13 +8453,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "gorebyss",
-    "gen": 3,
     "national_dex_num": 368,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -8531,13 +8488,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "relicanth",
-    "gen": 3,
     "national_dex_num": 369,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -8575,13 +8532,13 @@
         "water",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "luvdisc",
-    "gen": 3,
     "national_dex_num": 370,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -8610,13 +8567,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "salamence",
-    "gen": 3,
     "national_dex_num": 373,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -8654,13 +8611,13 @@
         "dragon",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "metagross",
-    "gen": 3,
     "national_dex_num": 376,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -8698,13 +8655,13 @@
         "steel",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "regirock",
-    "gen": 3,
     "national_dex_num": 377,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -8733,13 +8690,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "regice",
-    "gen": 3,
     "national_dex_num": 378,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -8768,13 +8725,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "registeel",
-    "gen": 3,
     "national_dex_num": 379,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -8803,13 +8760,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "latias",
-    "gen": 3,
     "national_dex_num": 380,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -8847,13 +8804,13 @@
         "dragon",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "latios",
-    "gen": 3,
     "national_dex_num": 381,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -8891,13 +8848,13 @@
         "dragon",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "kyogre",
-    "gen": 3,
     "national_dex_num": 382,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -8926,13 +8883,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "groudon",
-    "gen": 3,
     "national_dex_num": 383,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -8961,13 +8918,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "rayquaza",
-    "gen": 3,
     "national_dex_num": 384,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -9005,13 +8962,13 @@
         "dragon",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 3,
     "name": "jirachi",
-    "gen": 3,
     "national_dex_num": 385,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -9049,13 +9006,13 @@
         "steel",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "deoxys",
     "gen": 3,
+    "name": "deoxys",
     "national_dex_num": 386,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -9084,13 +9041,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "torterra",
-    "gen": 4,
     "national_dex_num": 389,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -9128,13 +9085,13 @@
         "grass",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "infernape",
-    "gen": 4,
     "national_dex_num": 392,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -9172,13 +9129,13 @@
         "fire",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "empoleon",
-    "gen": 4,
     "national_dex_num": 395,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -9216,13 +9173,13 @@
         "water",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "staraptor",
-    "gen": 4,
     "national_dex_num": 398,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -9260,13 +9217,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "bibarel",
-    "gen": 4,
     "national_dex_num": 400,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -9304,13 +9261,13 @@
         "normal",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "kricketune",
-    "gen": 4,
     "national_dex_num": 402,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug"
@@ -9339,13 +9296,13 @@
       "gen_9": [
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "luxray",
-    "gen": 4,
     "national_dex_num": 405,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -9374,13 +9331,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "rampardos",
-    "gen": 4,
     "national_dex_num": 409,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -9409,13 +9366,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "bastiodon",
-    "gen": 4,
     "national_dex_num": 411,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -9453,57 +9410,13 @@
         "rock",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "wormadam",
     "gen": 4,
-    "national_dex_num": 413,
-    "types": {
-      "gen_1": [
-        "bug",
-        "grass"
-      ],
-      "gen_2": [
-        "bug",
-        "grass"
-      ],
-      "gen_3": [
-        "bug",
-        "grass"
-      ],
-      "gen_4": [
-        "bug",
-        "grass"
-      ],
-      "gen_5": [
-        "bug",
-        "grass"
-      ],
-      "gen_6": [
-        "bug",
-        "grass"
-      ],
-      "gen_7": [
-        "bug",
-        "grass"
-      ],
-      "gen_8": [
-        "bug",
-        "grass"
-      ],
-      "gen_9": [
-        "bug",
-        "grass"
-      ]
-    },
-    "region_only": false
-  },
-  {
     "name": "mothim",
-    "gen": 4,
     "national_dex_num": 414,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -9541,13 +9454,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "vespiquen",
-    "gen": 4,
     "national_dex_num": 416,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -9585,13 +9498,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "pachirisu",
-    "gen": 4,
     "national_dex_num": 417,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -9620,13 +9533,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "floatzel",
-    "gen": 4,
     "national_dex_num": 419,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -9655,13 +9568,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "cherrim",
-    "gen": 4,
     "national_dex_num": 421,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -9690,13 +9603,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "gastrodon",
-    "gen": 4,
     "national_dex_num": 423,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -9734,13 +9647,13 @@
         "water",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "drifblim",
-    "gen": 4,
     "national_dex_num": 426,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -9778,13 +9691,13 @@
         "ghost",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "lopunny",
-    "gen": 4,
     "national_dex_num": 428,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -9813,13 +9726,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "purugly",
-    "gen": 4,
     "national_dex_num": 432,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -9848,13 +9761,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "skuntank",
-    "gen": 4,
     "national_dex_num": 435,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -9892,13 +9805,13 @@
         "poison",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "bronzong",
-    "gen": 4,
     "national_dex_num": 437,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -9936,13 +9849,13 @@
         "steel",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "chatot",
-    "gen": 4,
     "national_dex_num": 441,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -9980,13 +9893,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "spiritomb",
-    "gen": 4,
     "national_dex_num": 442,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -10024,13 +9937,13 @@
         "ghost",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "garchomp",
-    "gen": 4,
     "national_dex_num": 445,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -10068,13 +9981,13 @@
         "dragon",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "lucario",
-    "gen": 4,
     "national_dex_num": 448,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -10112,13 +10025,13 @@
         "fighting",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "hippowdon",
-    "gen": 4,
     "national_dex_num": 450,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -10147,13 +10060,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "drapion",
-    "gen": 4,
     "national_dex_num": 452,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -10191,13 +10104,13 @@
         "poison",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "toxicroak",
-    "gen": 4,
     "national_dex_num": 454,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -10235,13 +10148,13 @@
         "poison",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "carnivine",
-    "gen": 4,
     "national_dex_num": 455,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -10270,13 +10183,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "lumineon",
-    "gen": 4,
     "national_dex_num": 457,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -10305,13 +10218,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "abomasnow",
-    "gen": 4,
     "national_dex_num": 460,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -10349,13 +10262,13 @@
         "grass",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "rotom",
-    "gen": 4,
     "national_dex_num": 479,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -10393,13 +10306,13 @@
         "electric",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "uxie",
-    "gen": 4,
     "national_dex_num": 480,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -10428,13 +10341,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "mesprit",
-    "gen": 4,
     "national_dex_num": 481,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -10463,13 +10376,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "azelf",
-    "gen": 4,
     "national_dex_num": 482,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -10498,13 +10411,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "dialga",
-    "gen": 4,
     "national_dex_num": 483,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -10542,13 +10455,13 @@
         "steel",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "palkia",
-    "gen": 4,
     "national_dex_num": 484,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -10586,13 +10499,13 @@
         "water",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "heatran",
-    "gen": 4,
     "national_dex_num": 485,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -10630,13 +10543,13 @@
         "fire",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "regigigas",
-    "gen": 4,
     "national_dex_num": 486,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -10665,13 +10578,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "giratina",
-    "gen": 4,
     "national_dex_num": 487,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -10709,13 +10622,13 @@
         "ghost",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "cresselia",
-    "gen": 4,
     "national_dex_num": 488,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -10744,13 +10657,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "manaphy",
-    "gen": 4,
     "national_dex_num": 490,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -10779,13 +10692,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "darkrai",
-    "gen": 4,
     "national_dex_num": 491,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -10814,13 +10727,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 4,
     "name": "shaymin",
-    "gen": 4,
     "national_dex_num": 492,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -10849,13 +10762,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "arceus",
     "gen": 4,
+    "name": "arceus",
     "national_dex_num": 493,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -10884,13 +10797,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "victini",
-    "gen": 5,
     "national_dex_num": 494,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -10928,13 +10841,13 @@
         "psychic",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "serperior",
-    "gen": 5,
     "national_dex_num": 497,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -10963,13 +10876,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "emboar",
-    "gen": 5,
     "national_dex_num": 500,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -11007,13 +10920,13 @@
         "fire",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "samurott",
-    "gen": 5,
     "national_dex_num": 503,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -11042,13 +10955,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "watchog",
-    "gen": 5,
     "national_dex_num": 505,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -11077,13 +10990,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "stoutland",
-    "gen": 5,
     "national_dex_num": 508,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -11112,13 +11025,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "liepard",
-    "gen": 5,
     "national_dex_num": 510,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -11147,13 +11060,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "simisage",
-    "gen": 5,
     "national_dex_num": 512,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -11182,13 +11095,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "simisear",
-    "gen": 5,
     "national_dex_num": 514,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -11217,13 +11130,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "simipour",
-    "gen": 5,
     "national_dex_num": 516,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -11252,13 +11165,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "musharna",
-    "gen": 5,
     "national_dex_num": 518,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -11287,13 +11200,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "unfezant",
-    "gen": 5,
     "national_dex_num": 521,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -11331,13 +11244,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "zebstrika",
-    "gen": 5,
     "national_dex_num": 523,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -11366,13 +11279,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "gigalith",
-    "gen": 5,
     "national_dex_num": 526,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -11401,13 +11314,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "swoobat",
-    "gen": 5,
     "national_dex_num": 528,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -11445,13 +11358,13 @@
         "psychic",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "excadrill",
-    "gen": 5,
     "national_dex_num": 530,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -11489,13 +11402,13 @@
         "ground",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "audino",
-    "gen": 5,
     "national_dex_num": 531,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -11524,13 +11437,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "conkeldurr",
-    "gen": 5,
     "national_dex_num": 534,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -11559,13 +11472,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "seismitoad",
-    "gen": 5,
     "national_dex_num": 537,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -11603,13 +11516,13 @@
         "water",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "throh",
-    "gen": 5,
     "national_dex_num": 538,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -11638,13 +11551,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "sawk",
-    "gen": 5,
     "national_dex_num": 539,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -11673,13 +11586,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "leavanny",
-    "gen": 5,
     "national_dex_num": 542,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -11717,13 +11630,13 @@
         "bug",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "scolipede",
-    "gen": 5,
     "national_dex_num": 545,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -11761,13 +11674,13 @@
         "bug",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "whimsicott",
-    "gen": 5,
     "national_dex_num": 547,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -11800,13 +11713,13 @@
         "grass",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "lilligant",
-    "gen": 5,
     "national_dex_num": 549,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -11835,48 +11748,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "basculin",
-    "gen": 5,
-    "national_dex_num": 550,
-    "types": {
-      "gen_1": [
-        "water"
-      ],
-      "gen_2": [
-        "water"
-      ],
-      "gen_3": [
-        "water"
-      ],
-      "gen_4": [
-        "water"
-      ],
-      "gen_5": [
-        "water"
-      ],
-      "gen_6": [
-        "water"
-      ],
-      "gen_7": [
-        "water"
-      ],
-      "gen_8": [
-        "water"
-      ],
-      "gen_9": [
-        "water"
-      ]
-    },
-    "region_only": false
-  },
-  {
+    "gen": 8,
     "name": "basculegion",
-    "gen": 8,
     "national_dex_num": 902,
+    "region_only": true,
     "types": {
       "gen_1": [
         "water",
@@ -11914,13 +11792,48 @@
         "water",
         "ghost"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 5,
+    "name": "basculin",
+    "national_dex_num": 550,
+    "region_only": false,
+    "types": {
+      "gen_1": [
+        "water"
+      ],
+      "gen_2": [
+        "water"
+      ],
+      "gen_3": [
+        "water"
+      ],
+      "gen_4": [
+        "water"
+      ],
+      "gen_5": [
+        "water"
+      ],
+      "gen_6": [
+        "water"
+      ],
+      "gen_7": [
+        "water"
+      ],
+      "gen_8": [
+        "water"
+      ],
+      "gen_9": [
+        "water"
+      ]
+    }
+  },
+  {
+    "gen": 5,
     "name": "krookodile",
-    "gen": 5,
     "national_dex_num": 553,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -11958,13 +11871,13 @@
         "ground",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "darmanitan",
-    "gen": 5,
     "national_dex_num": 555,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -11993,13 +11906,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "maractus",
-    "gen": 5,
     "national_dex_num": 556,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -12028,13 +11941,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "crustle",
-    "gen": 5,
     "national_dex_num": 558,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -12072,13 +11985,13 @@
         "bug",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "scrafty",
-    "gen": 5,
     "national_dex_num": 560,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -12116,13 +12029,13 @@
         "dark",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "sigilyph",
-    "gen": 5,
     "national_dex_num": 561,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -12160,13 +12073,13 @@
         "psychic",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "cofagrigus",
-    "gen": 5,
     "national_dex_num": 563,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -12195,13 +12108,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "runerigus",
-    "gen": 8,
     "national_dex_num": 867,
+    "region_only": true,
     "types": {
       "gen_1": [
         "ground",
@@ -12239,13 +12152,13 @@
         "ground",
         "ghost"
       ]
-    },
-    "region_only": true
+    }
   },
   {
+    "gen": 5,
     "name": "carracosta",
-    "gen": 5,
     "national_dex_num": 565,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -12283,13 +12196,13 @@
         "water",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "archeops",
-    "gen": 5,
     "national_dex_num": 567,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -12327,13 +12240,13 @@
         "rock",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "garbodor",
-    "gen": 5,
     "national_dex_num": 569,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison"
@@ -12362,13 +12275,13 @@
       "gen_9": [
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "zoroark",
-    "gen": 5,
     "national_dex_num": 571,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -12397,13 +12310,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "cinccino",
-    "gen": 5,
     "national_dex_num": 573,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -12432,13 +12345,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "gothitelle",
-    "gen": 5,
     "national_dex_num": 576,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -12467,13 +12380,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "reuniclus",
-    "gen": 5,
     "national_dex_num": 579,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -12502,13 +12415,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "swanna",
-    "gen": 5,
     "national_dex_num": 581,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -12546,13 +12459,13 @@
         "water",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "vanilluxe",
-    "gen": 5,
     "national_dex_num": 584,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -12581,13 +12494,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "sawsbuck",
-    "gen": 5,
     "national_dex_num": 586,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -12625,13 +12538,13 @@
         "normal",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "emolga",
-    "gen": 5,
     "national_dex_num": 587,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -12669,13 +12582,13 @@
         "electric",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "escavalier",
-    "gen": 5,
     "national_dex_num": 589,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -12713,13 +12626,13 @@
         "bug",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "amoonguss",
-    "gen": 5,
     "national_dex_num": 591,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -12757,13 +12670,13 @@
         "grass",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "jellicent",
-    "gen": 5,
     "national_dex_num": 593,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -12801,13 +12714,13 @@
         "water",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "alomomola",
-    "gen": 5,
     "national_dex_num": 594,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -12836,13 +12749,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "galvantula",
-    "gen": 5,
     "national_dex_num": 596,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -12880,13 +12793,13 @@
         "bug",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "ferrothorn",
-    "gen": 5,
     "national_dex_num": 598,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -12924,13 +12837,13 @@
         "grass",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "klinklang",
-    "gen": 5,
     "national_dex_num": 601,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -12959,13 +12872,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "eelektross",
-    "gen": 5,
     "national_dex_num": 604,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -12994,13 +12907,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "beheeyem",
-    "gen": 5,
     "national_dex_num": 606,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -13029,13 +12942,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "chandelure",
-    "gen": 5,
     "national_dex_num": 609,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -13073,13 +12986,13 @@
         "ghost",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "haxorus",
-    "gen": 5,
     "national_dex_num": 612,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon"
@@ -13108,13 +13021,13 @@
       "gen_9": [
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "beartic",
-    "gen": 5,
     "national_dex_num": 614,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -13143,13 +13056,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "cryogonal",
-    "gen": 5,
     "national_dex_num": 615,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -13178,13 +13091,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "accelgor",
-    "gen": 5,
     "national_dex_num": 617,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug"
@@ -13213,13 +13126,13 @@
       "gen_9": [
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "stunfisk",
-    "gen": 5,
     "national_dex_num": 618,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -13257,13 +13170,13 @@
         "ground",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "mienshao",
-    "gen": 5,
     "national_dex_num": 620,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -13292,13 +13205,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "druddigon",
-    "gen": 5,
     "national_dex_num": 621,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon"
@@ -13327,13 +13240,13 @@
       "gen_9": [
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "golurk",
-    "gen": 5,
     "national_dex_num": 623,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -13371,13 +13284,13 @@
         "ground",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "kingambit",
-    "gen": 9,
     "national_dex_num": 983,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -13415,13 +13328,13 @@
         "dark",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "bouffalant",
-    "gen": 5,
     "national_dex_num": 626,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -13450,13 +13363,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "braviary",
-    "gen": 5,
     "national_dex_num": 628,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -13494,13 +13407,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "mandibuzz",
-    "gen": 5,
     "national_dex_num": 630,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -13538,13 +13451,13 @@
         "dark",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "heatmor",
-    "gen": 5,
     "national_dex_num": 631,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -13573,13 +13486,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "durant",
-    "gen": 5,
     "national_dex_num": 632,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -13617,13 +13530,13 @@
         "bug",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "hydreigon",
-    "gen": 5,
     "national_dex_num": 635,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -13661,13 +13574,13 @@
         "dark",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "volcarona",
-    "gen": 5,
     "national_dex_num": 637,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -13705,13 +13618,13 @@
         "bug",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "cobalion",
-    "gen": 5,
     "national_dex_num": 638,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -13749,13 +13662,13 @@
         "steel",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "terrakion",
-    "gen": 5,
     "national_dex_num": 639,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -13793,13 +13706,13 @@
         "rock",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "virizion",
-    "gen": 5,
     "national_dex_num": 640,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -13837,13 +13750,13 @@
         "grass",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "tornadus",
-    "gen": 5,
     "national_dex_num": 641,
+    "region_only": false,
     "types": {
       "gen_1": [
         "flying"
@@ -13872,13 +13785,13 @@
       "gen_9": [
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "thundurus",
-    "gen": 5,
     "national_dex_num": 642,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -13916,13 +13829,13 @@
         "electric",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "reshiram",
-    "gen": 5,
     "national_dex_num": 643,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -13960,13 +13873,13 @@
         "dragon",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "zekrom",
-    "gen": 5,
     "national_dex_num": 644,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -14004,13 +13917,13 @@
         "dragon",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "landorus",
-    "gen": 5,
     "national_dex_num": 645,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -14048,13 +13961,13 @@
         "ground",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "kyurem",
-    "gen": 5,
     "national_dex_num": 646,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -14092,13 +14005,13 @@
         "dragon",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "keldeo",
-    "gen": 5,
     "national_dex_num": 647,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -14136,13 +14049,13 @@
         "water",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 5,
     "name": "meloetta",
-    "gen": 5,
     "national_dex_num": 648,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -14180,13 +14093,13 @@
         "normal",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "genesect",
     "gen": 5,
+    "name": "genesect",
     "national_dex_num": 649,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -14224,13 +14137,13 @@
         "bug",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "chesnaught",
-    "gen": 6,
     "national_dex_num": 652,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -14268,13 +14181,13 @@
         "grass",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "delphox",
-    "gen": 6,
     "national_dex_num": 655,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -14312,13 +14225,13 @@
         "fire",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "greninja",
-    "gen": 6,
     "national_dex_num": 658,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -14356,13 +14269,13 @@
         "water",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "diggersby",
-    "gen": 6,
     "national_dex_num": 660,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -14400,13 +14313,13 @@
         "normal",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "talonflame",
-    "gen": 6,
     "national_dex_num": 663,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -14444,13 +14357,13 @@
         "fire",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "vivillon",
-    "gen": 6,
     "national_dex_num": 666,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -14488,13 +14401,13 @@
         "bug",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "pyroar",
-    "gen": 6,
     "national_dex_num": 668,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -14532,13 +14445,13 @@
         "fire",
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "florges",
-    "gen": 6,
     "national_dex_num": 671,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -14567,13 +14480,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "gogoat",
-    "gen": 6,
     "national_dex_num": 673,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -14602,13 +14515,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "pangoro",
-    "gen": 6,
     "national_dex_num": 675,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -14646,13 +14559,13 @@
         "fighting",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "furfrou",
-    "gen": 6,
     "national_dex_num": 676,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -14681,13 +14594,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "meowstic",
-    "gen": 6,
     "national_dex_num": 678,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -14716,13 +14629,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "aegislash",
-    "gen": 6,
     "national_dex_num": 681,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -14760,13 +14673,13 @@
         "steel",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "aromatisse",
-    "gen": 6,
     "national_dex_num": 683,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -14795,13 +14708,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "slurpuff",
-    "gen": 6,
     "national_dex_num": 685,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -14830,13 +14743,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "malamar",
-    "gen": 6,
     "national_dex_num": 687,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -14874,13 +14787,13 @@
         "dark",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "barbaracle",
-    "gen": 6,
     "national_dex_num": 689,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -14918,13 +14831,13 @@
         "rock",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "dragalge",
-    "gen": 6,
     "national_dex_num": 691,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -14962,13 +14875,13 @@
         "poison",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "clawitzer",
-    "gen": 6,
     "national_dex_num": 693,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -14997,13 +14910,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "heliolisk",
-    "gen": 6,
     "national_dex_num": 695,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -15041,13 +14954,13 @@
         "electric",
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "tyrantrum",
-    "gen": 6,
     "national_dex_num": 697,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -15085,13 +14998,13 @@
         "rock",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "aurorus",
-    "gen": 6,
     "national_dex_num": 699,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -15129,13 +15042,13 @@
         "rock",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "hawlucha",
-    "gen": 6,
     "national_dex_num": 701,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -15173,13 +15086,13 @@
         "fighting",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "dedenne",
-    "gen": 6,
     "national_dex_num": 702,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -15217,13 +15130,13 @@
         "electric",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "carbink",
-    "gen": 6,
     "national_dex_num": 703,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -15261,13 +15174,13 @@
         "rock",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "goodra",
-    "gen": 6,
     "national_dex_num": 706,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon"
@@ -15296,13 +15209,13 @@
       "gen_9": [
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "klefki",
-    "gen": 6,
     "national_dex_num": 707,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -15340,13 +15253,13 @@
         "steel",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "trevenant",
-    "gen": 6,
     "national_dex_num": 709,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -15384,13 +15297,13 @@
         "ghost",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "gourgeist",
-    "gen": 6,
     "national_dex_num": 711,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -15428,13 +15341,13 @@
         "ghost",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "avalugg",
-    "gen": 6,
     "national_dex_num": 713,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -15463,13 +15376,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "noivern",
-    "gen": 6,
     "national_dex_num": 715,
+    "region_only": false,
     "types": {
       "gen_1": [
         "flying",
@@ -15507,13 +15420,13 @@
         "flying",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "xerneas",
-    "gen": 6,
     "national_dex_num": 716,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -15542,13 +15455,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "yveltal",
-    "gen": 6,
     "national_dex_num": 717,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -15586,13 +15499,13 @@
         "dark",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "zygarde",
-    "gen": 6,
     "national_dex_num": 718,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -15630,13 +15543,13 @@
         "dragon",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "diancie",
-    "gen": 6,
     "national_dex_num": 719,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -15674,13 +15587,13 @@
         "rock",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 6,
     "name": "hoopa",
-    "gen": 6,
     "national_dex_num": 720,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -15718,13 +15631,13 @@
         "psychic",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "volcanion",
     "gen": 6,
+    "name": "volcanion",
     "national_dex_num": 721,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -15762,13 +15675,13 @@
         "fire",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "decidueye",
-    "gen": 7,
     "national_dex_num": 724,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -15806,13 +15719,13 @@
         "grass",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "incineroar",
-    "gen": 7,
     "national_dex_num": 727,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -15850,13 +15763,13 @@
         "fire",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "primarina",
-    "gen": 7,
     "national_dex_num": 730,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -15894,13 +15807,13 @@
         "water",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "toucannon",
-    "gen": 7,
     "national_dex_num": 733,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -15938,13 +15851,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "gumshoos",
-    "gen": 7,
     "national_dex_num": 735,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -15973,13 +15886,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "vikavolt",
-    "gen": 7,
     "national_dex_num": 738,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -16017,13 +15930,13 @@
         "bug",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "crabominable",
-    "gen": 7,
     "national_dex_num": 740,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -16061,57 +15974,13 @@
         "fighting",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "oricorio",
     "gen": 7,
-    "national_dex_num": 741,
-    "types": {
-      "gen_1": [
-        "fire",
-        "flying"
-      ],
-      "gen_2": [
-        "fire",
-        "flying"
-      ],
-      "gen_3": [
-        "fire",
-        "flying"
-      ],
-      "gen_4": [
-        "fire",
-        "flying"
-      ],
-      "gen_5": [
-        "fire",
-        "flying"
-      ],
-      "gen_6": [
-        "fire",
-        "flying"
-      ],
-      "gen_7": [
-        "fire",
-        "flying"
-      ],
-      "gen_8": [
-        "fire",
-        "flying"
-      ],
-      "gen_9": [
-        "fire",
-        "flying"
-      ]
-    },
-    "region_only": false
-  },
-  {
     "name": "ribombee",
-    "gen": 7,
     "national_dex_num": 743,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -16149,13 +16018,13 @@
         "bug",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "lycanroc",
-    "gen": 7,
     "national_dex_num": 745,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -16184,13 +16053,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "wishiwashi",
-    "gen": 7,
     "national_dex_num": 746,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -16219,13 +16088,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "toxapex",
-    "gen": 7,
     "national_dex_num": 748,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -16263,13 +16132,13 @@
         "poison",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "mudsdale",
-    "gen": 7,
     "national_dex_num": 750,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -16298,13 +16167,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "araquanid",
-    "gen": 7,
     "national_dex_num": 752,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -16342,13 +16211,13 @@
         "water",
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "lurantis",
-    "gen": 7,
     "national_dex_num": 754,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -16377,13 +16246,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "shiinotic",
-    "gen": 7,
     "national_dex_num": 756,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -16421,13 +16290,13 @@
         "grass",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "salazzle",
-    "gen": 7,
     "national_dex_num": 758,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -16465,13 +16334,13 @@
         "poison",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "bewear",
-    "gen": 7,
     "national_dex_num": 760,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -16509,13 +16378,13 @@
         "normal",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "tsareena",
-    "gen": 7,
     "national_dex_num": 763,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -16544,13 +16413,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "comfey",
-    "gen": 7,
     "national_dex_num": 764,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -16579,13 +16448,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "oranguru",
-    "gen": 7,
     "national_dex_num": 765,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -16623,13 +16492,13 @@
         "normal",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "passimian",
-    "gen": 7,
     "national_dex_num": 766,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -16658,13 +16527,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "golisopod",
-    "gen": 7,
     "national_dex_num": 768,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -16702,13 +16571,13 @@
         "bug",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "palossand",
-    "gen": 7,
     "national_dex_num": 770,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -16746,13 +16615,13 @@
         "ghost",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "pyukumuku",
-    "gen": 7,
     "national_dex_num": 771,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -16781,13 +16650,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "silvally",
-    "gen": 7,
     "national_dex_num": 773,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -16816,13 +16685,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "minior",
-    "gen": 7,
     "national_dex_num": 774,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -16860,13 +16729,13 @@
         "rock",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "komala",
-    "gen": 7,
     "national_dex_num": 775,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -16895,13 +16764,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "turtonator",
-    "gen": 7,
     "national_dex_num": 776,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -16939,13 +16808,13 @@
         "fire",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "togedemaru",
-    "gen": 7,
     "national_dex_num": 777,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -16983,13 +16852,13 @@
         "electric",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "mimikyu",
-    "gen": 7,
     "national_dex_num": 778,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -17027,13 +16896,13 @@
         "ghost",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "bruxish",
-    "gen": 7,
     "national_dex_num": 779,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -17071,13 +16940,13 @@
         "water",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "drampa",
-    "gen": 7,
     "national_dex_num": 780,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -17115,13 +16984,13 @@
         "normal",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "dhelmise",
-    "gen": 7,
     "national_dex_num": 781,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -17159,13 +17028,13 @@
         "ghost",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "kommo-o",
-    "gen": 7,
     "national_dex_num": 784,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -17203,13 +17072,13 @@
         "dragon",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "tapu-koko",
-    "gen": 7,
     "national_dex_num": 785,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -17247,13 +17116,13 @@
         "electric",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "tapu-lele",
-    "gen": 7,
     "national_dex_num": 786,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -17291,13 +17160,13 @@
         "psychic",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "tapu-bulu",
-    "gen": 7,
     "national_dex_num": 787,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -17335,13 +17204,13 @@
         "grass",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "tapu-fini",
-    "gen": 7,
     "national_dex_num": 788,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -17379,13 +17248,13 @@
         "water",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "solgaleo",
-    "gen": 7,
     "national_dex_num": 791,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -17423,13 +17292,13 @@
         "psychic",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "lunala",
-    "gen": 7,
     "national_dex_num": 792,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -17467,13 +17336,13 @@
         "psychic",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "nihilego",
-    "gen": 7,
     "national_dex_num": 793,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -17511,13 +17380,13 @@
         "rock",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "buzzwole",
-    "gen": 7,
     "national_dex_num": 794,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -17555,13 +17424,13 @@
         "bug",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "pheromosa",
-    "gen": 7,
     "national_dex_num": 795,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -17599,13 +17468,13 @@
         "bug",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "xurkitree",
-    "gen": 7,
     "national_dex_num": 796,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -17634,13 +17503,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "celesteela",
-    "gen": 7,
     "national_dex_num": 797,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -17678,13 +17547,13 @@
         "steel",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "kartana",
-    "gen": 7,
     "national_dex_num": 798,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -17722,13 +17591,13 @@
         "grass",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "guzzlord",
-    "gen": 7,
     "national_dex_num": 799,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -17766,13 +17635,13 @@
         "dark",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "necrozma",
-    "gen": 7,
     "national_dex_num": 800,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -17801,13 +17670,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "magearna",
-    "gen": 7,
     "national_dex_num": 801,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -17845,13 +17714,13 @@
         "steel",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "marshadow",
-    "gen": 7,
     "national_dex_num": 802,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -17889,13 +17758,13 @@
         "fighting",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "naganadel",
-    "gen": 7,
     "national_dex_num": 804,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -17933,13 +17802,13 @@
         "poison",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "stakataka",
-    "gen": 7,
     "national_dex_num": 805,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -17977,13 +17846,13 @@
         "rock",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "blacephalon",
-    "gen": 7,
     "national_dex_num": 806,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -18021,13 +17890,13 @@
         "fire",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "zeraora",
-    "gen": 7,
     "national_dex_num": 807,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -18056,13 +17925,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 7,
     "name": "meltan",
-    "gen": 7,
     "national_dex_num": 808,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -18091,13 +17960,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "melmetal",
     "gen": 7,
+    "name": "melmetal",
     "national_dex_num": 809,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -18126,13 +17995,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "rillaboom",
-    "gen": 8,
     "national_dex_num": 812,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -18161,13 +18030,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "cinderace",
-    "gen": 8,
     "national_dex_num": 815,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire"
@@ -18196,13 +18065,13 @@
       "gen_9": [
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "inteleon",
-    "gen": 8,
     "national_dex_num": 818,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -18231,13 +18100,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "greedent",
-    "gen": 8,
     "national_dex_num": 820,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -18266,13 +18135,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "corviknight",
-    "gen": 8,
     "national_dex_num": 823,
+    "region_only": false,
     "types": {
       "gen_1": [
         "flying",
@@ -18310,13 +18179,13 @@
         "flying",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "orbeetle",
-    "gen": 8,
     "national_dex_num": 826,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -18354,13 +18223,13 @@
         "bug",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "thievul",
-    "gen": 8,
     "national_dex_num": 828,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -18389,13 +18258,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "eldegoss",
-    "gen": 8,
     "national_dex_num": 830,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -18424,13 +18293,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "dubwool",
-    "gen": 8,
     "national_dex_num": 832,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -18459,13 +18328,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "drednaw",
-    "gen": 8,
     "national_dex_num": 834,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -18503,13 +18372,13 @@
         "water",
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "boltund",
-    "gen": 8,
     "national_dex_num": 836,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -18538,13 +18407,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "coalossal",
-    "gen": 8,
     "national_dex_num": 839,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -18582,13 +18451,13 @@
         "rock",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "flapple",
-    "gen": 8,
     "national_dex_num": 841,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -18626,13 +18495,13 @@
         "grass",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "appletun",
-    "gen": 8,
     "national_dex_num": 842,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -18670,13 +18539,13 @@
         "grass",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "hydrapple",
-    "gen": 9,
     "national_dex_num": 1019,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -18714,13 +18583,13 @@
         "grass",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "sandaconda",
-    "gen": 8,
     "national_dex_num": 844,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground"
@@ -18749,13 +18618,13 @@
       "gen_9": [
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "cramorant",
-    "gen": 8,
     "national_dex_num": 845,
+    "region_only": false,
     "types": {
       "gen_1": [
         "flying",
@@ -18793,13 +18662,13 @@
         "flying",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "barraskewda",
-    "gen": 8,
     "national_dex_num": 847,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -18828,13 +18697,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "toxtricity",
-    "gen": 8,
     "national_dex_num": 849,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -18872,13 +18741,13 @@
         "electric",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "centiskorch",
-    "gen": 8,
     "national_dex_num": 851,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -18916,13 +18785,13 @@
         "fire",
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "grapploct",
-    "gen": 8,
     "national_dex_num": 853,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -18951,13 +18820,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "polteageist",
-    "gen": 8,
     "national_dex_num": 855,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -18986,13 +18855,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "hatterene",
-    "gen": 8,
     "national_dex_num": 858,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -19030,13 +18899,13 @@
         "psychic",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "grimmsnarl",
-    "gen": 8,
     "national_dex_num": 861,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -19074,13 +18943,13 @@
         "dark",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "alcremie",
-    "gen": 8,
     "national_dex_num": 869,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -19109,13 +18978,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "falinks",
-    "gen": 8,
     "national_dex_num": 870,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -19144,13 +19013,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "pincurchin",
-    "gen": 8,
     "national_dex_num": 871,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -19179,13 +19048,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "frosmoth",
-    "gen": 8,
     "national_dex_num": 873,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -19223,13 +19092,13 @@
         "ice",
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "stonjourner",
-    "gen": 8,
     "national_dex_num": 874,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -19258,13 +19127,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "eiscue",
-    "gen": 8,
     "national_dex_num": 875,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -19293,13 +19162,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "indeedee",
-    "gen": 8,
     "national_dex_num": 876,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -19337,13 +19206,13 @@
         "psychic",
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "morpeko",
-    "gen": 8,
     "national_dex_num": 877,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -19381,13 +19250,13 @@
         "electric",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "copperajah",
-    "gen": 8,
     "national_dex_num": 879,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -19416,13 +19285,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "dracozolt",
-    "gen": 8,
     "national_dex_num": 880,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -19460,13 +19329,13 @@
         "electric",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "arctozolt",
-    "gen": 8,
     "national_dex_num": 881,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -19504,13 +19373,13 @@
         "electric",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "dracovish",
-    "gen": 8,
     "national_dex_num": 882,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -19548,13 +19417,13 @@
         "water",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "arctovish",
-    "gen": 8,
     "national_dex_num": 883,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -19592,13 +19461,13 @@
         "water",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "archaludon",
-    "gen": 9,
     "national_dex_num": 1018,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -19636,13 +19505,13 @@
         "steel",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "dragapult",
-    "gen": 8,
     "national_dex_num": 887,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -19680,13 +19549,13 @@
         "dragon",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "zacian",
-    "gen": 8,
     "national_dex_num": 888,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -19715,13 +19584,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "zamazenta",
-    "gen": 8,
     "national_dex_num": 889,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting"
@@ -19750,13 +19619,13 @@
       "gen_9": [
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "eternatus",
-    "gen": 8,
     "national_dex_num": 890,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -19794,57 +19663,13 @@
         "poison",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "urshifu",
     "gen": 8,
-    "national_dex_num": 892,
-    "types": {
-      "gen_1": [
-        "fighting",
-        "dark"
-      ],
-      "gen_2": [
-        "fighting",
-        "dark"
-      ],
-      "gen_3": [
-        "fighting",
-        "dark"
-      ],
-      "gen_4": [
-        "fighting",
-        "dark"
-      ],
-      "gen_5": [
-        "fighting",
-        "dark"
-      ],
-      "gen_6": [
-        "fighting",
-        "dark"
-      ],
-      "gen_7": [
-        "fighting",
-        "dark"
-      ],
-      "gen_8": [
-        "fighting",
-        "dark"
-      ],
-      "gen_9": [
-        "fighting",
-        "dark"
-      ]
-    },
-    "region_only": false
-  },
-  {
     "name": "zarude",
-    "gen": 8,
     "national_dex_num": 893,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -19882,13 +19707,13 @@
         "dark",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "regieleki",
-    "gen": 8,
     "national_dex_num": 894,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -19917,13 +19742,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "regidrago",
-    "gen": 8,
     "national_dex_num": 895,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon"
@@ -19952,13 +19777,13 @@
       "gen_9": [
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "glastrier",
-    "gen": 8,
     "national_dex_num": 896,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -19987,13 +19812,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "spectrier",
-    "gen": 8,
     "national_dex_num": 897,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -20022,13 +19847,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 8,
     "name": "calyrex",
-    "gen": 8,
     "national_dex_num": 898,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic",
@@ -20066,13 +19891,13 @@
         "psychic",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "enamorus",
     "gen": 8,
+    "name": "enamorus",
     "national_dex_num": 905,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy",
@@ -20110,13 +19935,13 @@
         "fairy",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "meowscarada",
-    "gen": 9,
     "national_dex_num": 908,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -20154,13 +19979,13 @@
         "grass",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "skeledirge",
-    "gen": 9,
     "national_dex_num": 911,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -20198,13 +20023,13 @@
         "fire",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "quaquaval",
-    "gen": 9,
     "national_dex_num": 914,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -20242,13 +20067,13 @@
         "water",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "oinkologne",
-    "gen": 9,
     "national_dex_num": 916,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -20277,13 +20102,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "spidops",
-    "gen": 9,
     "national_dex_num": 918,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug"
@@ -20312,13 +20137,13 @@
       "gen_9": [
         "bug"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "lokix",
-    "gen": 9,
     "national_dex_num": 920,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -20356,13 +20181,13 @@
         "bug",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "pawmot",
-    "gen": 9,
     "national_dex_num": 923,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -20400,13 +20225,13 @@
         "electric",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "maushold",
-    "gen": 9,
     "national_dex_num": 925,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -20435,13 +20260,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "dachsbun",
-    "gen": 9,
     "national_dex_num": 927,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy"
@@ -20470,13 +20295,13 @@
       "gen_9": [
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "arboliva",
-    "gen": 9,
     "national_dex_num": 930,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -20514,13 +20339,13 @@
         "grass",
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "squawkabilly",
-    "gen": 9,
     "national_dex_num": 931,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal",
@@ -20558,13 +20383,13 @@
         "normal",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "garganacl",
-    "gen": 9,
     "national_dex_num": 934,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -20593,13 +20418,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "armarouge",
-    "gen": 9,
     "national_dex_num": 936,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -20637,13 +20462,13 @@
         "fire",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "ceruledge",
-    "gen": 9,
     "national_dex_num": 937,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -20681,13 +20506,13 @@
         "fire",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "bellibolt",
-    "gen": 9,
     "national_dex_num": 939,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric"
@@ -20716,13 +20541,13 @@
       "gen_9": [
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "kilowattrel",
-    "gen": 9,
     "national_dex_num": 941,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -20760,13 +20585,13 @@
         "electric",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "mabosstiff",
-    "gen": 9,
     "national_dex_num": 943,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark"
@@ -20795,13 +20620,13 @@
       "gen_9": [
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "grafaiai",
-    "gen": 9,
     "national_dex_num": 945,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -20839,13 +20664,13 @@
         "poison",
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "brambleghast",
-    "gen": 9,
     "national_dex_num": 947,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -20883,13 +20708,13 @@
         "grass",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "toedscruel",
-    "gen": 9,
     "national_dex_num": 949,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -20927,13 +20752,13 @@
         "ground",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "klawf",
-    "gen": 9,
     "national_dex_num": 950,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock"
@@ -20962,13 +20787,13 @@
       "gen_9": [
         "rock"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "scovillain",
-    "gen": 9,
     "national_dex_num": 952,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -21006,13 +20831,13 @@
         "grass",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "rabsca",
-    "gen": 9,
     "national_dex_num": 954,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -21050,13 +20875,13 @@
         "bug",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "espathra",
-    "gen": 9,
     "national_dex_num": 956,
+    "region_only": false,
     "types": {
       "gen_1": [
         "psychic"
@@ -21085,13 +20910,13 @@
       "gen_9": [
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "tinkaton",
-    "gen": 9,
     "national_dex_num": 959,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy",
@@ -21129,13 +20954,13 @@
         "fairy",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "wugtrio",
-    "gen": 9,
     "national_dex_num": 961,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -21164,13 +20989,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "bombirdier",
-    "gen": 9,
     "national_dex_num": 962,
+    "region_only": false,
     "types": {
       "gen_1": [
         "flying",
@@ -21208,13 +21033,13 @@
         "flying",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "palafin",
-    "gen": 9,
     "national_dex_num": 964,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -21243,13 +21068,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "revavroom",
-    "gen": 9,
     "national_dex_num": 966,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -21287,13 +21112,13 @@
         "steel",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "cyclizar",
-    "gen": 9,
     "national_dex_num": 967,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -21331,13 +21156,13 @@
         "dragon",
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "orthworm",
-    "gen": 9,
     "national_dex_num": 968,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel"
@@ -21366,13 +21191,13 @@
       "gen_9": [
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "glimmora",
-    "gen": 9,
     "national_dex_num": 970,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -21410,13 +21235,13 @@
         "rock",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "houndstone",
-    "gen": 9,
     "national_dex_num": 972,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost"
@@ -21445,13 +21270,13 @@
       "gen_9": [
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "flamigo",
-    "gen": 9,
     "national_dex_num": 973,
+    "region_only": false,
     "types": {
       "gen_1": [
         "flying",
@@ -21489,13 +21314,13 @@
         "flying",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "cetitan",
-    "gen": 9,
     "national_dex_num": 975,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice"
@@ -21524,13 +21349,13 @@
       "gen_9": [
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "veluza",
-    "gen": 9,
     "national_dex_num": 976,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -21568,13 +21393,13 @@
         "water",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "dondozo",
-    "gen": 9,
     "national_dex_num": 977,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water"
@@ -21603,13 +21428,13 @@
       "gen_9": [
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "tatsugiri",
-    "gen": 9,
     "national_dex_num": 978,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -21647,13 +21472,13 @@
         "dragon",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "great-tusk",
-    "gen": 9,
     "national_dex_num": 984,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -21691,13 +21516,13 @@
         "ground",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "scream-tail",
-    "gen": 9,
     "national_dex_num": 985,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy",
@@ -21735,13 +21560,13 @@
         "fairy",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "brute-bonnet",
-    "gen": 9,
     "national_dex_num": 986,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -21779,13 +21604,13 @@
         "grass",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "flutter-mane",
-    "gen": 9,
     "national_dex_num": 987,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ghost",
@@ -21823,13 +21648,13 @@
         "ghost",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "slither-wing",
-    "gen": 9,
     "national_dex_num": 988,
+    "region_only": false,
     "types": {
       "gen_1": [
         "bug",
@@ -21867,13 +21692,13 @@
         "bug",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "sandy-shocks",
-    "gen": 9,
     "national_dex_num": 989,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -21911,13 +21736,13 @@
         "electric",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-treads",
-    "gen": 9,
     "national_dex_num": 990,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ground",
@@ -21955,13 +21780,13 @@
         "ground",
         "steel"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-bundle",
-    "gen": 9,
     "national_dex_num": 991,
+    "region_only": false,
     "types": {
       "gen_1": [
         "ice",
@@ -21999,13 +21824,13 @@
         "ice",
         "water"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-hands",
-    "gen": 9,
     "national_dex_num": 992,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -22043,13 +21868,13 @@
         "fighting",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-jugulis",
-    "gen": 9,
     "national_dex_num": 993,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -22087,13 +21912,13 @@
         "dark",
         "flying"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-moth",
-    "gen": 9,
     "national_dex_num": 994,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -22131,13 +21956,13 @@
         "fire",
         "poison"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-thorns",
-    "gen": 9,
     "national_dex_num": 995,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -22175,13 +22000,13 @@
         "rock",
         "electric"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "baxcalibur",
-    "gen": 9,
     "national_dex_num": 998,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -22219,13 +22044,13 @@
         "dragon",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "gholdengo",
-    "gen": 9,
     "national_dex_num": 1000,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -22263,13 +22088,13 @@
         "steel",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "wo-chien",
-    "gen": 9,
     "national_dex_num": 1001,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -22307,13 +22132,13 @@
         "dark",
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "chien-pao",
-    "gen": 9,
     "national_dex_num": 1002,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -22351,13 +22176,13 @@
         "dark",
         "ice"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "ting-lu",
-    "gen": 9,
     "national_dex_num": 1003,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -22395,13 +22220,13 @@
         "dark",
         "ground"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "chi-yu",
-    "gen": 9,
     "national_dex_num": 1004,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dark",
@@ -22439,13 +22264,13 @@
         "dark",
         "fire"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "roaring-moon",
-    "gen": 9,
     "national_dex_num": 1005,
+    "region_only": false,
     "types": {
       "gen_1": [
         "dragon",
@@ -22483,13 +22308,13 @@
         "dragon",
         "dark"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-valiant",
-    "gen": 9,
     "national_dex_num": 1006,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fairy",
@@ -22527,13 +22352,13 @@
         "fairy",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "koraidon",
-    "gen": 9,
     "national_dex_num": 1007,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fighting",
@@ -22571,13 +22396,13 @@
         "fighting",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "miraidon",
-    "gen": 9,
     "national_dex_num": 1008,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -22615,13 +22440,13 @@
         "electric",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "walking-wake",
-    "gen": 9,
     "national_dex_num": 1009,
+    "region_only": false,
     "types": {
       "gen_1": [
         "water",
@@ -22659,13 +22484,13 @@
         "water",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-leaves",
-    "gen": 9,
     "national_dex_num": 1010,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -22703,13 +22528,13 @@
         "grass",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "sinistcha",
-    "gen": 9,
     "national_dex_num": 1013,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass",
@@ -22747,13 +22572,13 @@
         "grass",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "okidogi",
-    "gen": 9,
     "national_dex_num": 1014,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -22791,13 +22616,13 @@
         "poison",
         "fighting"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "munkidori",
-    "gen": 9,
     "national_dex_num": 1015,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -22835,13 +22660,13 @@
         "poison",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "fezandipiti",
-    "gen": 9,
     "national_dex_num": 1016,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -22879,13 +22704,13 @@
         "poison",
         "fairy"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "ogerpon",
-    "gen": 9,
     "national_dex_num": 1017,
+    "region_only": false,
     "types": {
       "gen_1": [
         "grass"
@@ -22914,13 +22739,13 @@
       "gen_9": [
         "grass"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "gouging-fire",
-    "gen": 9,
     "national_dex_num": 1020,
+    "region_only": false,
     "types": {
       "gen_1": [
         "fire",
@@ -22958,13 +22783,13 @@
         "fire",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "raging-bolt",
-    "gen": 9,
     "national_dex_num": 1021,
+    "region_only": false,
     "types": {
       "gen_1": [
         "electric",
@@ -23002,13 +22827,13 @@
         "electric",
         "dragon"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-boulder",
-    "gen": 9,
     "national_dex_num": 1022,
+    "region_only": false,
     "types": {
       "gen_1": [
         "rock",
@@ -23046,13 +22871,13 @@
         "rock",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "iron-crown",
-    "gen": 9,
     "national_dex_num": 1023,
+    "region_only": false,
     "types": {
       "gen_1": [
         "steel",
@@ -23090,13 +22915,13 @@
         "steel",
         "psychic"
       ]
-    },
-    "region_only": false
+    }
   },
   {
+    "gen": 9,
     "name": "terapagos",
-    "gen": 9,
     "national_dex_num": 1024,
+    "region_only": false,
     "types": {
       "gen_1": [
         "normal"
@@ -23125,13 +22950,13 @@
       "gen_9": [
         "normal"
       ]
-    },
-    "region_only": false
+    }
   },
   {
-    "name": "pecharunt",
     "gen": 9,
+    "name": "pecharunt",
     "national_dex_num": 1025,
+    "region_only": false,
     "types": {
       "gen_1": [
         "poison",
@@ -23169,7 +22994,6 @@
         "poison",
         "ghost"
       ]
-    },
-    "region_only": false
+    }
   }
 ]

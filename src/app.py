@@ -1,9 +1,21 @@
-from flask import Flask, jsonify, request
+import os, logging
+from dotenv import load_dotenv
+from flask import Flask, jsonify, request, abort
 from src.resources.updater import update, auto_update
-from src.utils.paths import TYPES, GENERATIONS
+from src.utils.paths import SRC, TYPES, GENERATIONS
 from src.utils.manage_json import read_json
 
+load_dotenv()
+
+logging.basicConfig(
+    filename = SRC / 'app.log',
+    filemode = 'a',
+    level = logging.INFO,
+    format = '%(asctime)s - (At %(name)s) %(levelname)s: %(message)s'
+    )
+
 app = Flask(__name__)
+
 
 @app.route('/')
 def index():
@@ -12,10 +24,15 @@ def index():
     return jsonify(info)
 
 
-@app.route('/update')
+@app.route('/update', methods=['PUT'])
 def manual_update():
-    update(from_scratch = True)
-    info = {'info': 'Resources updated'}
+    received_key = request.headers.get('Authorization')
+    update_key = os.getenv('UPDATE_KEY')
+    if received_key != f'Bearer {update_key}':
+        abort(403)
+
+    update()
+    info = {'Info': 'Resources updated'}
     return jsonify(info)
 
 
@@ -34,6 +51,7 @@ def get_generation_monotypes(number):
     resource = read_json(GENERATIONS / f'gen_{number}_partial{suffix}.json')
     return jsonify(resource)
 
+
 @app.route('/generations/<int:number>/strict')
 @app.route('/generations/<int:number>/strict/accumulated')
 def get_generation_duals(number):
@@ -43,5 +61,6 @@ def get_generation_duals(number):
 
 
 if __name__ == '__main__':
+    # update()
     auto_update()
     app.run(debug=True)

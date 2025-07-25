@@ -1,6 +1,8 @@
-import requests, roman
+import requests, logging, roman
 from time import sleep
 from src.utils.constants import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
+
+logger = logging.getLogger(__name__)
 
 def call(endpoint: str) -> dict:
     """
@@ -12,11 +14,22 @@ def call(endpoint: str) -> dict:
 
     url = endpoint if endpoint.startswith(BASE_URL) else BASE_URL + endpoint
 
-    response = requests.get(url)
-    response.raise_for_status()
-    print(f'Successful call to {url}')
-    sleep(0.2) # Spacing requests to avoid 429
-    return response.json()
+    attempts = 0
+    while attempts < 10:
+        attempts += 1
+
+        try:
+            sleep(0.2) # Even when requests are successful, they must be spaced to avoid 429.
+            response = requests.get(url)
+            response.raise_for_status()
+            logger.info(f'Successful call to {url}')
+            return response.json()
+
+        except requests.exceptions.RequestException as error:
+            logger.error(f'Failed call to {url}. Attempt {attempts}: {error}')
+
+    logger.critical(f'Request to {url} failed after 10 attempts.')
+    raise RuntimeError(f'ERROR: Request to {url} failed after 10 attempts.')
 
 
 def get_chain_members(chain: dict) -> list[str]:
@@ -117,9 +130,6 @@ def get_data(limit = 10) -> list[dict]:
     """
 
     data = call(f'pokemon-species?limit={limit}').get('results')
-    if not data:
-        raise Exception('ERROR: No data found.')
-
     gens = call('generation').get('count', 9) # Obtain current number of generations and last gen number (same)
 
     results = []

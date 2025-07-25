@@ -23,4 +23,4 @@ REGION_ONLY = [
 
 SPECIALS = ['mr-mime', 'farfetchd', 'corsola', 'ursaring', 'linoone', 'qwilfish', 'basculin']
 
-NO_DEFAULT_FORM = ['wormadam', 'oricorio', 'urshifu']
+NO_DEFAULT_FORM = ['wormadam', 'oricorio', 'ursaluna', 'urshifu']
