@@ -27,8 +27,8 @@ def index():
 @app.route('/update', methods=['PUT'])
 def manual_update():
     received_key = request.headers.get('Authorization')
-    update_key = os.getenv('UPDATE_KEY')
-    if received_key != f'Bearer {update_key}':
+    admin_key = os.getenv('ADMIN_KEY')
+    if received_key != f'Bearer {admin_key}':
         abort(403)
 
     update()
