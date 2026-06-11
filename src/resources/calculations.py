@@ -23,7 +23,10 @@ def get_types_count(source: dict, gen_num: int, *types: str, partial = False, ac
         else:
             counted = sorted(pokemon['types'][gen_name]) == sorted(types) # This line also allows for tuple usage when passing types, since sorted() returns lists
 
-        if counted:
+        outdated = pokemon['evolves_at'] <= gen_num # Checking if new evolutions exist by this gen
+
+        if counted and not outdated:
+
             exists = pokemon['gen'] <= gen_num
             from_this_gen = pokemon['gen'] == gen_num
             region_only = pokemon['region_only']

@@ -5,31 +5,33 @@ from itertools import combinations
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.cron import CronTrigger
 # Imports from own modules
-from src.utils.paths import DATA, GENERATIONS, TYPES
-from src.utils.manage_json import read_json, write_json
+from src.utils.constants import TYPES as local_types
+from src.utils.paths import DATA, GENERATIONS, TYPES, SOURCEFILE
+from src.utils.manage_json import read_json, write_json, is_source_ok
 from src.resources.fetcher import call, get_data
 from src.resources.calculations import get_balance, get_diversity, get_total_type_weight, get_types_count
 
 logger = logging.getLogger(__name__)
 
 
-def update(from_scratch = True):
+def update():
     """Updates all resources. If `from_scratch` is `True`, it performs all the logic pertaining
     PokéAPI, including many requests, and creates the main resource. Otherwise, it works locally
     from the preexistent file."""
 
     try:
-        if from_scratch:
+        if not is_source_ok():
+            logger.error('Main resource not found or corrupted. Attemting to create it from scratch...')
             source = get_data(9999)
-            write_json(source, DATA / 'source.json')
+            write_json(source, SOURCEFILE)
             logger.info('Main data successfully fetched and written to JSON format.')
         else:
-            source = read_json(DATA / 'source.json')
+            source = read_json(SOURCEFILE)
 
         gens = call('generation').get('count', 9)
 
         types_data = call('type').get('results')
-        types = [result['name'] for result in types_data]
+        types = [result['name'] for result in types_data] if types_data else local_types
         types.remove('unknown'); types.remove('stellar')
 
     except RuntimeError as error:
@@ -72,8 +74,9 @@ def update(from_scratch = True):
         mode = 'partial' if partial else 'strict'
         suffix = '_accumulated' if accumulated else ''
         write_json(result, GENERATIONS / f'gen_{gen_num}_{mode}{suffix}.json')
+
         prefix = '' if accumulated else 'non-'
-        logger.info(f'Data for generation {gen_num} ({prefix}accumulated) successfully writen to JSON file.')
+        logger.info(f'Data for generation {gen_num} ({prefix}accumulated, {mode} mode) successfully writen to JSON file.')
 
 
     def create_type_resource(type: str, accumulated: bool):
@@ -88,13 +91,17 @@ def update(from_scratch = True):
             result['counters'].append(counter)
 
         write_json(result, TYPES / f'{type}{suffix}.json')
-        logger.info(f'Data for {type} type at every generation successfully writen to JSON file.')
+
+        prefix = '' if accumulated else 'non-'
+        logger.info(f'Data for {type} type at every generation ({prefix}accumulated) successfully writen to JSON file.')
 
 
+    logger.info('Creating resources for each generation...')
     for gen in range(1, gens + 1):
         for mode in [(True, True), (True, False), (False, False), (False, True)]:
             create_gen_resource(gen, mode[0], mode[1])
 
+    logger.info('Creating resources for every type...')
     for type in types:
         create_type_resource(type, False)
         create_type_resource(type, True)
@@ -110,7 +117,3 @@ def auto_update():
     scheduler.add_job(update, date_to_run)
     scheduler.start()
     logger.info('Updates scheduled for every February the 2nd.')
-
-
-if __name__ == '__main__':
-    update()

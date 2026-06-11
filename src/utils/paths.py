@@ -5,10 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parents[2].resolve()
 SRC = ROOT / 'src'
-# RESOURCES = SRC / 'resources'
 DATA = SRC / 'resources' / 'data'
-# DATA = RESOURCES / 'data'
+SOURCEFILE = DATA / 'source.json'
 GENERATIONS = DATA / 'generations'
 TYPES = DATA / 'types'
-
-# UTILS = SRC / 'utils'

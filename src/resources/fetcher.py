@@ -1,7 +1,10 @@
-import requests, logging, roman
+import requests, os, logging, roman
 from time import sleep
-from src.utils.constants import BASE_URL, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
+from dotenv import load_dotenv
+from src.utils.constants import BASE_URL, TEMPORARY, REGION_ONLY, SPECIALS, NO_DEFAULT_FORM
 
+load_dotenv()
+env = os.getenv('ENV', 'development')
 logger = logging.getLogger(__name__)
 
 def call(endpoint: str) -> dict:
@@ -22,7 +25,8 @@ def call(endpoint: str) -> dict:
             sleep(0.2) # Even when requests are successful, they must be spaced to avoid 429.
             response = requests.get(url)
             response.raise_for_status()
-            logger.info(f'Successful call to {url}')
+            if env == 'development':
+                logger.info(f'Successful call to {url}')
             return response.json()
 
         except requests.exceptions.RequestException as error:
@@ -48,15 +52,20 @@ def get_chain_members(chain: dict) -> list[str]:
 
 
 def get_last_evols(chain: dict) -> list[str]:
-    """Returns the names of all Pokémon in the `evolution-chain` that don't evolve any further."""
+    """Returns the names of all Pokémon in the `evolution-chain` that don't evolve any further,
+    including "temporary" ones that end up evolving in some generations."""
 
     chain_link = chain['chain']
     last_evols = []
 
     def parse(chain_link): # Recursive function, complex behavior
+        name = chain_link['species']['name']
         if not chain_link['evolves_to']:
-            last_evols.append(chain_link['species']['name'])
+            last_evols.append(name)
         else:
+            if chain_link['species']['name'] in TEMPORARY: # Manually adding Pokémon that will evolve in later generations
+                last_evols.append(name)
+
             for evolution in chain_link['evolves_to']:
                 parse(evolution)
 
@@ -123,6 +132,7 @@ def get_data(limit = 10) -> list[dict]:
     - `gen`: The generation it was born into.
     - `national_dex_num`: Its number in the National Pokédex.
     - `region_only`: If it only evolves from a regional form.
+    - `evolves_at`: For some Pokémon, the generation when an evolution was introduced. Set to 999 for most.
     - `types`: The types it had on every generation.
 
     To prevent excessive requests during development, a `limit` is set to 10. For usage, call the
@@ -156,7 +166,7 @@ def get_data(limit = 10) -> list[dict]:
                 if evolution in NO_DEFAULT_FORM:
                     continue # Skipping Pokémon without a default form
 
-                if evolution in species_cache: # Caching in line 135 avoids repetitive calls for single-member evolution chains
+                if evolution in species_cache: # Caching in line 145 avoids repetitive calls for single-member evolution chains
                     evolution_species_data = species_cache[evolution]
                 else:
                     evolution_species_data = call('pokemon-species/' + evolution)
@@ -175,7 +185,8 @@ def get_data(limit = 10) -> list[dict]:
                              'gen': gen_num,
                              'national_dex_num': national_dex_num,
                              'types': types,
-                             'region_only': evolution in REGION_ONLY}
+                             'region_only': evolution in REGION_ONLY,
+                             'evolves_at': TEMPORARY.get(evolution, 999)}
                 results.append(full_json)
 
     return results
